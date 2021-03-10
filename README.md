@@ -8,6 +8,6 @@ Im a failed physicist studying Computer Science!
 -
 - 🤔 I’m looking for help with C programming
 -
-- 📫 How to reach me: markusfwirz@gmail.com
+- 📫 How to reach me: (ask for my e-mail)
 
 -->

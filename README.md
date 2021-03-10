@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mde-figu/mde-figu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://media.giphy.com/media/xaHFxr5iG0FD9CvYoz/giphy.gif)
 
 Here are some ideas to get you started:
 

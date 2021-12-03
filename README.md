@@ -4,10 +4,9 @@
 
 Im a failed physicist studying Computer Science!
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Kotlin
 -
-- 🤔 I’m looking for help with C programming
+- 🤔 I’m looking for help with Computer Science
 -
-- 📫 How to reach me: e-mail ^over there^
 
 -->

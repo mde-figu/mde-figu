@@ -7,7 +7,7 @@
 ### Contact:
 <div style="display: flex;" align="left">
   <a href="mailto:markusfwirz@gmail.com">
-    <img src="https://img.icons8.com/office/16/000000/mail-contact.png"/>
+    <img src="https://img.icons8.com/officel/16/000000/mail-contact.png"/>
   </a>
 </div>
 <div style="display: flex;" align="left">

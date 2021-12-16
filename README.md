@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ![Alt Text](https://media.giphy.com/media/xaHFxr5iG0FD9CvYoz/giphy.gif)
-A physicist trying his way through computer science
+
+### A physicist trying his way through computer science
 ------
-### Contact: 👔
+### Contact:
 <div style="display: flex;" align="center">
   <a href="mailto:markusfwirz@gmail.com">
     <img src='https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail.Ru&logoColor=white' alt='mail' />

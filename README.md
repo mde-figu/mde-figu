@@ -28,4 +28,4 @@
 
 ------
 
-[![Markus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mde-figu)](https://github.com/mde-figu/github-readme-stats&theme=radical)
+[![Markus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mde-figu)](https://github.com/mde-figu/github-readme-stats&theme=merko)

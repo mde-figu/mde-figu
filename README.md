@@ -30,3 +30,4 @@
 ------
 <!---https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md--->
 [![Markus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mde-figu&theme=merko)](https://github.com/mde-figu/github-readme-stats)
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mde-figu&langs_count=6&layout=compact&theme=merko&hide_border=true&hide=html,css,scss,roff,makefile,handlebars)

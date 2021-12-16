@@ -15,3 +15,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
   </a>
 </div>
+------
+### Tech:
+<img src=![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)/>

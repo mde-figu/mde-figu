@@ -18,7 +18,7 @@
 
 ------
 ### Tech:
-
+<!--- https://github.com/Ileriayo/markdown-badges --->
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
@@ -28,5 +28,5 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ------
-
+<!---https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md--->
 [![Markus' GitHub stats](https://github-readme-stats.vercel.app/api?username=mde-figu&theme=merko)](https://github.com/mde-figu/github-readme-stats)

@@ -12,6 +12,6 @@
 </div>
 <div style="display: flex;" align="left">
   <a href="https://www.linkedin.com/in/markus-wirz-mde-figu-042/">
-    <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
   </a>
 </div>

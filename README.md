@@ -7,7 +7,7 @@
 ### Contact:
 <div style="display: flex;" align="left">
   <a href="mailto:markusfwirz@gmail.com">
-    <img src='https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail.Ru&logoColor=white' alt='mail' />
+    <img src="https://img.icons8.com/office/16/000000/mail-contact.png"/>
   </a>
 </div>
 <div style="display: flex;" align="left">

@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/xaHFxr5iG0FD9CvYoz/giphy.gif)
 
-### A physicist trying his way through computer science
+### A physicist who jumped on the cryptography wagon
 ------
 ### Contact:
 <div style="display: flex;" align="left">
